@@ -1,5 +1,7 @@
 # PeriodicoDigital_ParaTrabajoSocial
-Periódico digital que ofrece noticias y recursos sobre la inclusión educativa.
+Discapacidades en el Ámbito Educativo: Es un periódico digital que ofrece noticias y recursos sobre la inclusión educativa. Desarrollado con HTML, CSS y JavaScript, se brinda información actualizada sobre legislación, investigaciones y buenas prácticas en educación inclusiva.
+
+## Trabajo realizado para estudiantes de la Carrera de Trabajo Social
 
 ## Imagenes de Referencia
 
